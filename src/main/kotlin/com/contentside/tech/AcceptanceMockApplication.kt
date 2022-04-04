@@ -1,0 +1,8 @@
+package com.contentside.tech
+
+import org.springframework.boot.autoconfigure.SpringBootApplication
+import org.springframework.boot.context.properties.EnableConfigurationProperties
+
+@SpringBootApplication
+@EnableConfigurationProperties
+open class AcceptanceMockApplication
